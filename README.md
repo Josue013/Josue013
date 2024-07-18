@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img height="285" src="https://img.wattpad.com/4f709d94e32bba8d846cf11cc807d7a96d00572c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f53574c582d67524b5554413334773d3d2d3135332e313439393861303165353337616536643238333532343739353639372e676966"  />
+  <img height="253" src="https://pa1.aminoapps.com/7028/1868704095eb4068270077625427816298a89f8dr1-500-250_hq.gif"  />
 </div>
 
 ###
@@ -43,9 +43,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Josue013/Josue013/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Josue013/Josue013/output/snake.svg" alt="Snake animation" />
+</div> 
 
 
 ###
