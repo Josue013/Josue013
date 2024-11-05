@@ -1,6 +1,6 @@
 ###
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=850&height=80&lines=Hi%2C+%F0%9F%91%8B!+My+name+is+Josue+and+I'm+an+student+of+Software+and;System's+Engineering%2C%0Afrom+Universidad+de+San+Carlos+de+Guatemala" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=850&height=80&lines=Hi%2C+%F0%9F%91%8B!+My+name+is+Josue+and+I'm+an+student+of+Sciences+and;System's+Engineering%2C%0Afrom+Universidad+de+San+Carlos+de+Guatemala" alt="Typing SVG" />
 
 ###
 
