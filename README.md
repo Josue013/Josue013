@@ -20,127 +20,64 @@
 
 ---
 
+<!--- Skills -->
 <div align="center">
-   <h1>🛠️ Technologies & Tools</h1>
+  <h1>🛠️ Technologies & Tools</h1>
+
+  <h3>Frontend Development</h3>
+
+  <p>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+  </p>
+    
+
+  <h3>Backend Development</h3>
+  <p>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net&logoColor=white"></a>
+  </p>
+    
+  <h3>Other Languages</h3>
+  <p>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AJosue013+language%3Afortran"><img alt="Fortran" src="https://img.shields.io/badge/Fortran-734F96.svg?logo=fortran&logoColor=white"></a>
+  </p>
+
+  <h3>Databases</h3>
+  <p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://custom-icon-badges.demolab.com/badge/Oracle-F00000.svg?logo=oraclee&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
+  </p>
+
+  <h3>DevOps & Tools</h3>
+  <p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?logo=kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4.svg?logo=microsoft-azure&logoColor=white"></a>
+    <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"></a>
+  </p>
 </div>
-
-<br>
-
-<table align="center" width="90%">
-<tr>
-<td align="center" width="50%" style="padding: 20px;">
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="45" alt="html5 logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="45" alt="css3 logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" width="45" alt="tailwindcss logo" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="45" alt="javascript logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" width="45" alt="typescript logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="45" alt="react logo" />
-</p>
-
-</td>
-<td align="center" width="50%" style="padding: 20px;">
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="45" alt="mysql logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="45" alt="postgresql logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg" width="45" alt="oracle logo" />
-</p>
-
-### ✂ Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="45" alt="git logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width="45" alt="docker logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kubernetes.svg" width="45" alt="kubernetes logo" />
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GCP-Dark.svg" width="45" alt="gcp logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Grafana-Dark.svg" width="45" alt="grafana logo" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### ⚙️ Backend Development & Languages
-
-<table width="95%">
-<tr>
-<td align="center" width="33%" style="padding: 15px;">
-<h4>🐍 Py Ecosystem</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" width="40" alt="python logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" width="40" alt="django logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" width="40" alt="flask logo" />
-</p>
-</td>
-<td align="center" width="33%" style="padding: 15px;">
-<h4>🌐 JS Ecosystem</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="40" alt="nodejs logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="40" alt="express logo" />
-</p>
-</td>
-<td align="center" width="33%" style="padding: 15px;">
-<h4>☕ Java Ecosystem</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="40" alt="java logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" width="40" alt="spring logo" />
-</p>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding: 15px;">
-<h4>⚡ Other Languages</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width="40" alt="cplusplus logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" width="40" alt="go logo" />
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Fortran.svg" width="40" alt="fortran logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" width="40" alt="c logo" />
-</p>
-
-  
-</td>
-<td align="center" colspan="2" style="padding: 15px;">
-<h4>🔷 .NET Ecosystem</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" width="40" alt="csharp logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" width="40" alt="dotnet logo" />
-</p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ---
 
