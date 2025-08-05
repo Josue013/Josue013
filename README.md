@@ -12,9 +12,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josue013&theme=blue_green" height="150" alt="stats graph"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Josue013&theme=blue_green" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josue013&theme=tokyonight" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Josue013&theme=tokyonight&utcOffset=8" height="150" alt="Commits per day badge"  />
+  
 </div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josue013&theme=tokyonight" height="150" alt="Top languages by repo badge"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Josue013&theme=tokyonight" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josue013&theme=tokyonight" height="148" alt="Profile details badge"/>
+</div>
+
+
+
 
 ###
 
