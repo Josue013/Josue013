@@ -36,6 +36,7 @@
 
 <!--- Skills -->
 <div align="center">
+  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=485&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=485&lines=Technologies+%26+Tools" alt="Typing SVG" /></a>
