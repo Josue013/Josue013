@@ -1,12 +1,13 @@
 ###
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=850&height=80&lines=Hi%2C+%F0%9F%91%8B!+My+name+is+Josue+and+I'm+a+student+of+Computer+Science+and;Systems+Engineering%2C%0Afrom+Universidad+de+San+Carlos+de+Guatemala" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&repeat=false&multiline=true&width=850&height=80&lines=Hi%2C+%F0%9F%91%8B!+My+name+is+Josue+and+I'm+a+student+of+Computer+Science+and;Systems+Engineering%2C%0Afrom+Universidad+de+San+Carlos+de+Guatemala&color=%23bf91f3" />
+
 
 ###
 
 
 <div align="center">
-  <img height="253" src="https://pa1.aminoapps.com/7028/1868704095eb4068270077625427816298a89f8dr1-500-250_hq.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/58/70/72/587072da657dcee567164c2ff718e08e.gif"  />
 </div>
 
 ###
@@ -35,10 +36,14 @@
 
 <!--- Skills -->
 <div align="center">
-  <h1>🛠️ Technologies & Tools</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=485&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=485&lines=Technologies+%26+Tools" alt="Typing SVG" /></a>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=485&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
+  
 
-  <h3>Frontend Development</h3>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=435&height=35&lines=Frontend+Development" alt="Typing SVG" /></a>
   <p>
     <a href="https://github.com/search?q=user%3AJosue013+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3AJosue013+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -49,7 +54,7 @@
   </p>
     
 
-  <h3>Backend Development</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=435&height=35&lines=Backend+Development" alt="Typing SVG" /></a>
   <p>
     <a href="https://github.com/search?q=user%3AJosue013+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AJosue013+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -62,7 +67,7 @@
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net&logoColor=white"></a>
   </p>
     
-  <h3>Other Languages</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=435&height=35&lines=Other+Languages" alt="Typing SVG" /></a>
   <p>
     <a href="https://github.com/search?q=user%3AJosue013+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AJosue013+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -70,7 +75,7 @@
     <a href="https://github.com/search?q=user%3AJosue013+language%3Afortran"><img alt="Fortran" src="https://img.shields.io/badge/Fortran-734F96.svg?logo=fortran&logoColor=white"></a>
   </p>
 
-  <h3>Databases</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=435&height=35&lines=Databases" alt="Typing SVG" /></a>
   <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
@@ -80,7 +85,7 @@
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
   </p>
 
-  <h3>DevOps & Tools</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=C898FF&center=true&vCenter=true&repeat=false&width=435&height=35&lines=DevOps+%26+Tools" alt="Typing SVG" /></a>
   <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
