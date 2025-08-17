@@ -103,17 +103,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Josue013/Josue013/output/snake.svg" alt="Snake animation" />
-</div> 
-
-
-###
-
----
-
-###
-
-<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
