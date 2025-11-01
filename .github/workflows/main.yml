@@ -2,7 +2,7 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,24 +19,42 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
-        uses: cyprieng/github-breakout@v1.2.3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          github_username: ${{ github.repository_owner }}
-          paddle_color: "#cba6f7"
-          ball_color: "#cba6f7"
-          bricks_colors: "#585b70,#6c7086,#7f849c,#9399b2,#b4befe"
+          node-version: '20'
 
-      - name: Move generated SVGs
+      - name: Install github-breakout
+        run: |
+          npm install -g github-breakout
+
+      - name: Generate custom SVG with CLI
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          github-breakout \
+            --username ${{ github.repository_owner }} \
+            --token $GITHUB_TOKEN \
+            --ball-color "#cba6f7" \
+            --paddle-color "#cba6f7" \
+            --bricks-colors "#585b70,#6c7086,#7f849c,#9399b2,#b4befe" \
+            --no-ghost-bricks \
+            --output-path ./output
+
+      - name: List generated files
+        run: |
+          echo "Generated files:"
+          ls -la output/
+
+      - name: Move custom SVG
         run: |
           mkdir -p images
-          # Solo mover custom.svg ya que es el único que se genera con colores personalizados
           if [ -f output/custom.svg ]; then
             mv output/custom.svg images/breakout-custom.svg
             echo "custom.svg moved successfully"
           else
-            echo "custom.svg not found"
-            ls -la output/
+            echo "custom.svg not found!"
+            exit 1
           fi
 
       - name: Configure git
@@ -44,8 +62,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and push SVGs
+      - name: Commit and push SVG
         run: |
-          git add images/*.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
+          git add images/breakout-custom.svg
+          git diff --staged --quiet || git commit -m "chore: update breakout SVG"
           git push
