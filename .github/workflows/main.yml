@@ -30,14 +30,13 @@ jobs:
       - name: Move generated SVGs
         run: |
           mkdir -p images
+          # Solo mover custom.svg ya que es el único que se genera con colores personalizados
           if [ -f output/custom.svg ]; then
             mv output/custom.svg images/breakout-custom.svg
-          fi
-          if [ -f output/light.svg ]; then
-            mv output/light.svg images/breakout-light.svg
-          fi
-          if [ -f output/dark.svg ]; then
-            mv output/dark.svg images/breakout-dark.svg
+            echo "custom.svg moved successfully"
+          else
+            echo "custom.svg not found"
+            ls -la output/
           fi
 
       - name: Configure git
