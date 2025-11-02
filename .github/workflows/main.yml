@@ -23,7 +23,7 @@ jobs:
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          enable_ghost_bricks: true
+          enable_ghost_bricks: false
           paddle_color: "#cba6f7"
           ball_color: "#cba6f7"
           bricks_colors: "#f5c2e7,#ddb6f2,#cba6f7,#b490d9,#9d7bb8"
