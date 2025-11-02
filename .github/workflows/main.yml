@@ -26,7 +26,7 @@ jobs:
           enable_ghost_bricks: false
           paddle_color: "#cba6f7"
           ball_color: "#cba6f7"
-          bricks_colors: "#f5c2e7,#ddb6f2,#cba6f7,#b490d9,#9d7bb8"
+          bricks_colors: "#cba6f726,#cba6f74d,#cba6f799,#cba6f7cc,#cba6f7"
 
       - name: Move generated SVGs
         run: |
@@ -47,5 +47,5 @@ jobs:
       - name: Commit and push SVGs
         run: |
           git add images/*.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
+          git commit -m "chore: update breakout SVG" || echo "No changes to commit"
           git push
